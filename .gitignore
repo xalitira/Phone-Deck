@@ -1,0 +1,24 @@
+# PyInstaller output
+/build/
+/dist/
+
+# Python cache and virtual environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Local app data and user customization
+buttons.json
+settings.json
+presets.json
+background.img
+bgsheet.jpg
+bgsheet.json
+icons/
+
+# IDE and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
