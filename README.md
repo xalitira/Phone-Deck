@@ -27,3 +27,6 @@ The repository includes the ready-to-run `PhoneDeck.exe` and the Python source u
 - `build_exe.bat` and `PhoneDeck.spec` — PyInstaller build setup
 - `TelefonDeck.ico` — application icon
 - `MainActivity.kt` — Android connection app source (incomplete project)
+
+## License
+- MIT licence
